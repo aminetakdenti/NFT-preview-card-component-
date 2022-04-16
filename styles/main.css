@@ -34,7 +34,7 @@
 .card {
   padding: 20px;
   background-color: var(--very-dark-blue2);
-  width: 330px;
+  width: 350px;
   border-radius: 20px;
 }
 .card .image {
