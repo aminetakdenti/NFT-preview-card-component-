@@ -18,6 +18,7 @@
 /* Start Globale Rules */
 * {
   margin: 0;
+  box-sizing: border-box;
   font-family: 'Outfit', sans-serif;
 }
 /* End Globale Rules */
